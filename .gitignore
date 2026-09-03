@@ -1,0 +1,54 @@
+# LaTeX build products
+*.aux
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Python and local environments (defensive; no Python is published)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# Private or stale working material
+/archive/
+/build/
+/dist/
+/internal/
+/metadata/
+/prompts/
+/release/
+/reviews/
+*.bak
+*.old
+*.orig
+*.rej
+*.tmp
+*PREVIEW_NOT_FOR_UPLOAD*
+DO_NOT_UPLOAD*
+
+# Intentionally public: do not add blanket *.pdf, *.zip, *.tex, *.bib or *.bbl rules.

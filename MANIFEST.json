@@ -1,0 +1,102 @@
+{
+  "schema": "paper1-public-repository-manifest-v1",
+  "status": "PUBLIC_RELEASE",
+  "created_utc": "2026-09-03T20:01:29.445403+00:00",
+  "repository": {
+    "planned_owner": "SebastianFoxxx",
+    "name": "tasa-framework-paper",
+    "url": "https://github.com/SebastianFoxxx/tasa-framework-paper"
+  },
+  "paper": {
+    "version": "1.0.0",
+    "publication_date": "2026-09-03",
+    "zenodo_doi": "10.5281/zenodo.22283059",
+    "arxiv_id": null,
+    "license": "CC-BY-4.0"
+  },
+  "source_release": {
+    "name": "TASA_Paper1_v1.0.0_zenodo_reserved_22283059",
+    "manifest_sha256": "AE0A06EE5584C0C24CD66BC56E4F53A346BFCC2D2F617542F2BB3F44045DDAD4",
+    "frozen_inputs": {
+      "content_tree_sha256": "14EF6F4BE94F40B5CF6650C23FB2F32AF1150234E3E9F6D210084533AB0B768C",
+      "references_core_bib_sha256": "4232654823F6803CB2D98CF84AB93F39FE00151559AF3E378EB65C48B9448C77",
+      "references_p1_ext_bib_sha256": "21A017B66A31764BC0BA1DF7CE11AB4148A5A189335FBD5904A435E740397C05"
+    },
+    "pdf_sha256": "F685FE102E0E8415EF49D5D0C40F685826E9B4FF6982E03EADF197EA9F9BA3B1",
+    "source_zip_sha256": "16228842A8A0B7A46DB63703E36B47BD1D756DC3C2BD81B34A1E1696B8A1B580"
+  },
+  "public_inputs": {
+    "author_note": {
+      "approved_source_sha256": "905CBC47ED4C149DC24582A9EA4E3A0D4CA133AAA52D34590093E280CABF3495",
+      "public_file_sha256": "E34B650F60C5B196334B8608BCA2CDE33F882F5C1CD675DC9EF5105A62F87E3B"
+    }
+  },
+  "warnings": [],
+  "files_excluding_manifest_and_checksums": [
+    {
+      "path": ".gitattributes",
+      "bytes": 274,
+      "sha256": "626CF5AF23652F0E47B633FE187263B68DE34F01774F9650BF2E1E478ACAA071"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 646,
+      "sha256": "24D5F20759E58C916B1FDF3F15A6D2511B514BDCD085CA8ED2A76A67BE783431"
+    },
+    {
+      "path": "AUTHOR_NOTE.md",
+      "bytes": 6596,
+      "sha256": "E34B650F60C5B196334B8608BCA2CDE33F882F5C1CD675DC9EF5105A62F87E3B"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 3934,
+      "sha256": "3C7FE1F1F4D4EEEDBF941F2DA0ADAE5D49749E92B926AB5F607CCC2071AAC244"
+    },
+    {
+      "path": "figures/architecture_overview.pdf",
+      "bytes": 30046,
+      "sha256": "F0B91588F00A8598565F07619F803453DA8E4FB33734BB13FD09DDAC8AAD386B"
+    },
+    {
+      "path": "figures/channel_permissions.pdf",
+      "bytes": 21277,
+      "sha256": "0EBF2FE58E8C493361F6004A990325EBCB4AAD56CBF9592DA3A06B2806D81A96"
+    },
+    {
+      "path": "figures/evidence_verdict_pipeline.pdf",
+      "bytes": 22631,
+      "sha256": "5CD50B90D0C3EF175D3156CA22E50FB65FFD44DE68C4E2EECCA556E3E01CE99A"
+    },
+    {
+      "path": "figures/identifier_machinery.pdf",
+      "bytes": 25356,
+      "sha256": "65CD1125ECDD5D3045D88D5B050EBAA7778493AE3A21DFE78C94AA333C52DF63"
+    },
+    {
+      "path": "figures/learnability_pipeline.pdf",
+      "bytes": 26692,
+      "sha256": "FC9A42B1A91E68B557966C442E01E461BC1F5384C0B72E9F598BD14A5F21A91D"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 19241,
+      "sha256": "FDFDBE764B028707E3D488816DAF92C31A7DE4ABBCE3AE291C122C7F63855D7C"
+    },
+    {
+      "path": "paper/TASA_Paper1_v1.0.0.pdf",
+      "bytes": 1487265,
+      "sha256": "F685FE102E0E8415EF49D5D0C40F685826E9B4FF6982E03EADF197EA9F9BA3B1"
+    },
+    {
+      "path": "paper/TASA_Paper1_v1.0.0_sources.zip",
+      "bytes": 350271,
+      "sha256": "16228842A8A0B7A46DB63703E36B47BD1D756DC3C2BD81B34A1E1696B8A1B580"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5352,
+      "sha256": "0A773E28A105DCF448C809B0BE5D94A63EB16DDBFD7B768B339F70E152C1E451"
+    }
+  ]
+}

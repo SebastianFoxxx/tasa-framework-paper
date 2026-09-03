@@ -1,0 +1,50 @@
+# GENERATED FILE, DO NOT EDIT -- written by
+# paper/shared/tools/identity_build.py from paper/shared/paper_identity.yaml.
+#
+# Consumer: GitHub renders this as "Cite this repository" when it sits at the
+# repository root. This is a paper-artifact repository, so the preferred
+# citation below identifies the archived article rather than software.
+#
+# Title, subtitle, abstract and keywords are READ from the paper's own .tex --
+# they are not repeated in the YAML, so they cannot drift.
+cff-version: 1.2.0
+message: "If you refer to this work, please cite the paper below."
+title: "TASA: A Tick-Based Affective State Architecture for Persistent, Inspectable Inner State – Framework, Learnability Conditions, Governance, and Evaluation"
+authors:
+  - family-names: Fuchs
+    given-names: Sebastian
+    orcid: "https://orcid.org/0009-0009-1237-4804"
+    email: sebastian.fuchs@hu-berlin.de
+    affiliation: "Institut für Informatik, Humboldt-Universität zu Berlin"
+version: "1.0.0"
+date-released: 2026-09-03
+abstract: "Standard language-model inference lacks cross-exchange internal organization. External memory can reconstruct continuity without persistent state whose causal role is tested. We present TASA (Tick-Based Affective State Architecture), a theoretical framework for such a state: segmented across timescales in discrete ticks, with structured affect, competitive workspace integration, governed typed memory shelves, and language isolated behind translators. TASA contributes (i) a semi-formal architecture specification; (ii) five conditions for latent-target learning and assessment—four target/optimization conditions plus one persistence-discriminability reporting condition—with failure modes including identity solutions and conditional-mean collapse; (iii) growth governance based on memory-first consolidation, no-self-sealing, and criterion reachability; and (iv) an evaluation theory with noise floors, structurally equivalent positive controls, item-level statistics, evidence markers, and staged understanding. A worked instantiation sketches an inspectable end-to-end interaction loop whose prototype core is memory- and complexity-plausible on one GPU; throughput and repeat-run affordability remain unmeasured. Seventeen hypotheses—fourteen non-provisional and three provisional—define the program. The non-provisional hypotheses become bidirectionally testable once a study versions its estimands, controls, and decision rules. This framework paper reports no empirical results; its contribution lies in methodological integration and operationalization. The long-horizon aim is to test whether persistent state becomes measurably richer, more coherent, more history-dependent, and deeper during sustained, governed operation. All such claims require instrumentation, and terms such as affect and inner state denote functional organization rather than consciousness, sentience, or phenomenal experience."
+keywords:
+  - "cognitive architecture"
+  - "persistent internal state"
+  - "artificial inner world"
+  - "global workspace theory"
+  - "affective computing"
+  - "latent-state supervision"
+  - "learnability conditions"
+  - "world models"
+  - "metacognition"
+  - "continual learning governance"
+  - "machine consciousness indicators"
+  - "evaluation methodology"
+license: CC-BY-4.0
+url: "https://github.com/SebastianFoxxx/tasa-framework-paper"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22283059
+preferred-citation:
+  type: article
+  title: "TASA: A Tick-Based Affective State Architecture for Persistent, Inspectable Inner State – Framework, Learnability Conditions, Governance, and Evaluation"
+  authors:
+    - family-names: Fuchs
+      given-names: Sebastian
+      orcid: "https://orcid.org/0009-0009-1237-4804"
+      email: sebastian.fuchs@hu-berlin.de
+      affiliation: "Institut für Informatik, Humboldt-Universität zu Berlin"
+  year: 2026
+  doi: "10.5281/zenodo.22283059"
