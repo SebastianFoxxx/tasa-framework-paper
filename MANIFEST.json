@@ -1,7 +1,7 @@
 {
   "schema": "paper1-public-repository-manifest-v1",
   "status": "PUBLIC_RELEASE",
-  "created_utc": "2026-09-03T20:01:29.445403+00:00",
+  "created_utc": "2026-09-03T20:46:26.274747+00:00",
   "repository": {
     "planned_owner": "SebastianFoxxx",
     "name": "tasa-framework-paper",
@@ -95,8 +95,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5352,
-      "sha256": "0A773E28A105DCF448C809B0BE5D94A63EB16DDBFD7B768B339F70E152C1E451"
+      "bytes": 5563,
+      "sha256": "75100EAD8322CC3F030A5B344548F23D0D51A151113B69257E30201F1B15B979"
     }
   ]
 }

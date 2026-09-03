@@ -2,6 +2,8 @@
 
 A specification-style framework paper for the TASA research programme.
 
+**[Read the paper (PDF)](paper/TASA_Paper1_v1.0.0.pdf) · [Canonical Zenodo record](https://doi.org/10.5281/zenodo.22283059) · [Release v1.0.0](https://github.com/SebastianFoxxx/tasa-framework-paper/releases/tag/v1.0.0)**
+
 ## Status and identifiers
 
 - Author: Sebastian Fuchs
@@ -11,7 +13,6 @@ A specification-style framework paper for the TASA research programme.
 - Version: 1.0.0
 - First publication: 2026-09-03
 - Canonical archive: [https://doi.org/10.5281/zenodo.22283059](https://doi.org/10.5281/zenodo.22283059)
-- arXiv: not announced
 
 ## Abstract
 
@@ -28,7 +29,7 @@ that its individual architectural components are new in isolation.
 
 - `AUTHOR_NOTE.md` — the author's personal perspective on the work.
 - `paper/TASA_Paper1_v1.0.0.pdf` — the released paper PDF.
-- `paper/TASA_Paper1_v1.0.0_sources.zip` — the complete, verified LaTeX source archive used for Zenodo and arXiv.
+- `paper/TASA_Paper1_v1.0.0_sources.zip` — the complete, verified LaTeX source archive corresponding to the v1.0.0 release.
 - `figures/` — five selected figures that already exist as independent PDF assets in the verified source package:
 
   - `figures/channel_permissions.pdf` — Channel permissions.
